@@ -32,4 +32,4 @@ This project consists of a script that generates PDF files for taking lecture no
 
 If your `input` folder contains a PDF file named `example.pdf`, the script will generate a LaTeX file and compile it into a handout PDF, saving the output as `example_handouts.pdf` in the `output` folder. Below is an example of how the output page might look like:
 
-![output example](photos\output_example.jpg)
+![output example](photos/output_example.jpg)
