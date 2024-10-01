@@ -1,0 +1,8 @@
+# Ignore output and input folders
+output/
+input/
+
+# Ignore LaTeX temporary files
+*.tex
+*.log
+*.aux
